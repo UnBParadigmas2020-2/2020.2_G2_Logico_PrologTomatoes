@@ -1,1 +1,1 @@
-# 2020.2_G3_Logico_PrologTomatoes
+# 2020.2_G2_Logico_PrologTomatoes
