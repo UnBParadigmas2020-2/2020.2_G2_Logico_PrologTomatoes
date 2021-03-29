@@ -503,8 +503,6 @@ short_movie(Y) :- film(Y,_,_,X,_), X =< 100.
 medium_movie(Y) :- film(Y,_,_,X,_), X > 100, X =< 130. 
 long_movie(Y) :- film(Y,_,_,X,_), X > 130.
 
-movie_length(Y,L) :- short_movie(Y), L =:= 1.
-movie_length(Y,L) :- medium_movie(Y), L > 3, L =:= 2.
-movie_length(Y,L) :- long_movie(Y), L > 7, L =:= 3.
-
-
+movie_length(Y,L) :- short_movie(Y), L =< 1.
+movie_length(Y,L) :- medium_movie(Y), L > 1, L =< 2.
+movie_length(Y,L) :- long_movie(Y), L > 2, L =< 3.
