@@ -499,10 +499,18 @@ film("In the Mouth of Madness","Horror",1994,95,"US").
 film("Master of the Flying Guillotine","Action",1976,93,"HK").
 film("Collaborator","Comedy",2011,87,"CA").
 
-short_movie(Y) :- film(Y,_,_,X,_), X =< 100.
-medium_movie(Y) :- film(Y,_,_,X,_), X > 100, X =< 130. 
-long_movie(Y) :- film(Y,_,_,X,_), X > 130.
+short_movie(M) :- film(M,_,_,X,_), X =< 100.
+medium_movie(M) :- film(M,_,_,X,_), X > 100, X =< 130. 
+long_movie(M) :- film(M,_,_,X,_), X > 130.
 
-movie_length(Y,L) :- short_movie(Y), L =< 1.
-movie_length(Y,L) :- medium_movie(Y), L > 1, L =< 2.
-movie_length(Y,L) :- long_movie(Y), L > 2, L =< 3.
+movie_length(M,L) :- short_movie(M), L =< 1.
+movie_length(M,L) :- medium_movie(M), L > 1, L =< 2.
+movie_length(M,L) :- long_movie(M), L > 2, L =< 3.
+
+new_film(M) :- film(M,_,X,_,_), X > 2000.
+old_film(M) :- film(M,_,X,_,_), X =< 1999.
+
+film_age(M, Y) :- new_film(M), Y =< 1.
+film_age(M, Y) :- old_film(M), Y > 1, Y =< 2.
+
+movie_recommendation(M, L, Y) :- movie_length(M, L), film_age(M, Y).
