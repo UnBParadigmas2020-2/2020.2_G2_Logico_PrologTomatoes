@@ -1,8 +1,10 @@
 
 from flask import Flask
 from flask_cors import CORS
+from views.movie import movie_blueprint
 
 app = Flask(__name__)
+app.register_blueprint(movie_blueprint)
 
 CORS(app, automatic_options=True)
 
