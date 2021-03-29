@@ -4,7 +4,7 @@ import { Container, Content, Background, Option, Form } from './styles';
 import tomatoLogo from '../../assets/tomato.svg';
 
 const PrologTomatoesTwo: React.FC = () => {
-  const [genderMovie, setGenderMovie] = useState('');
+  const [genderMovie, setGenderMovie] = useState('Animation');
 
   const history = useHistory();
   return (
@@ -29,6 +29,7 @@ const PrologTomatoesTwo: React.FC = () => {
               id="Animation"
               name="gender"
               value="Animation"
+              defaultChecked
               onClick={() => setGenderMovie('Animation')}
             />
             <label htmlFor="Animação">Animação</label>
@@ -103,7 +104,9 @@ const PrologTomatoesTwo: React.FC = () => {
 
         <button
           type="submit"
-          onClick={() => history.push(`PrologTomatosThree/${genderMovie}`)}
+          onClick={() =>
+            history.replace(`prolog-tomatoes-three/${genderMovie}`)
+          }
         >
           Avançar
         </button>
