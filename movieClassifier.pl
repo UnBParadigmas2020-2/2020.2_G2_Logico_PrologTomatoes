@@ -1,501 +1,500 @@
-film(Innocent Blood,Comedy,1992,112,US).
-film(The Candidate,Thriller,2008,90,DK).
-film(The 317th Platoon,War,1965,100,FR).
-film(The Groomsmen,Comedy,2006,98,US).
-film(Altiplano,Drama,2009,109,BE).
-film(Moontide,Drama,1942,94,US).
-film(Mandragora,Drama,1997,126,CZ).
-film(Murder, She Baked: A Deadly Recipe,Movie,2016,84,CA).
-film(Dil Chahta Hai,Drama,2001,183,IN).
-film(Signs of Life,Drama,1968,91,DE).
-film(Brian Regan: Live From Radio City Music Hall,Comedy,2015,57,US).
-film(Fist of the North Star: Legend of Toki,Animation,2008,60,JP).
-film(Kaante,Action,2002,152,IN).
-film(Mister Buddwing,Drama,1966,100,US).
-film(Old Stone,Drama,2016,80,CN).
-film(Antidote,Crime,2014,0,TR).
-film(The Love Guru,Comedy,2008,87,US).
-film(Into the White,Action,2012,100,NO).
-film(Walking Vengeance,Crime,2008,129,ES).
-film(Asura,Animation,2012,76,JP).
-film(One Magic Christmas,Family,1985,88,CA).
-film(Measuring the World,Drama,2012,127,DE).
-film(Braddock: Missing in Action III,Action,1988,101,US).
-film(Tony Takitani,Drama,2004,76,JP).
-film(The Dyatlov Pass Incident,Thriller,2013,100,GB).
-film(Meet the Feebles,Comedy,1989,94,NZ).
-film(Equals,Drama,2015,101,US).
-film(Chiedimi se sono felice,Comedy,2000,0,IT).
-film(Curve,Horror,2015,86,US).
-film(Paragraph 78: Film One,Thriller,2007,88,RU).
-film(House of Frankenstein,Fantasy,1944,71,US).
-film(Dead of the Nite,Horror,2013,0,GB).
-film(Somewhere in the Night,Drama,1946,110,US).
-film(The Spy Next Door,Action,2010,94,US).
-film(Crime on a Summer Morning,Crime,1965,109,IT).
-film(For Better and Worse,Comedy,2015,90,SE).
-film(The Window,Drama,2008,85,AR).
-film(125 Years Memory,Drama,2015,132,TR).
-film(Ad Fundum,Drama,1993,98,BE).
-film(The Devil's Candy,Horror,2017,90,US).
-film(Cold Steel,Action,1987,91,US).
-film(Spring Break Shark Attack,Action,2005,88,ZA).
-film(Mahler,Drama,1974,115,GB).
-film(Peg o' My Heart,Drama,1933,87,US).
-film(Ozzy,Animation,2016,90,CA).
-film(Memories,Crime,2013,132,IN).
-film(The Living Dead at Manchester Morgue,Horror,1974,95,IT).
-film(Low Down,Drama,2014,119,US).
-film(Oranges and Sunshine,Drama,2010,100,GB).
-film(Horror Express,Horror,1972,90,ES).
-film(Care Bears Movie II: A New Generation,Adventure,1986,76,CA).
-film(Girl with Hyacinths,Drama,1950,89,SE).
-film(Two Men Went To War,Comedy,2002,109,GB).
-film(One in a Million: The Ron LeFlore Story,Movie,1978,100,US).
-film(Iracema, Uma Transa Amazônica,Drama,1976,91,BR).
-film(Mariage à Mendoza,Comedy,2013,0,BE).
-film(Nothing Sacred,Comedy,1937,77,US).
-film(The Castaway Cowboy,Adventure,1974,91,US).
-film(Austin Powers: International Man of Mystery,Science,1997,94,DE).
-film(Tillbaka till Bromma,Comedy,2014,94,SE).
-film(Hockney,Documentary,2014,112,GB).
-film(Be with Me,Horror,2010,100,KR).
-film(Westbound,Western,1959,69,US).
-film(The Bone Snatcher,Science,2003,90,ZA).
-film(Race the Sun,Action,1996,100,US).
-film(The Epic of Everest,Documentary,1924,87,GB).
-film(Att stjäla en tjuv,Comedy,1996,93,SE).
-film(Very Russian Detective,Mystery,2008,100,RU).
-film(Safety Last!,Comedy,1923,70,US).
-film(Imagine: John Lennon,Documentary,1988,100,US).
-film(True Grit,Drama,2010,110,US).
-film(Rabbit Heart,Family,1987,78,DE).
-film(Endless Poetry,Fantasy,2016,130,GB).
-film(Tough Enough,Action,1983,106,US).
-film(The Story of the Kelly Gang,History,1906,60,AU).
-film(The Fruit Machine,Drama,1988,103,GB).
-film(Amy,Documentary,2015,128,GB).
-film(Stealing Beauty,Drama,1996,116,FR).
-film(Charlie Chan in Reno,Mystery,1939,70,US).
-film(Sanshiro Sugata Part Two,History,1945,83,JP).
-film(Strange Heaven,Thriller,2015,103,PL).
-film(Ondine,Drama,2009,111,IE).
-film(The Magic Gloves,Comedy,2003,90,NL).
-film(Sundown,Romance,2016,103,MX).
-film(1 Mile to You,Drama,2017,104,US).
-film(Red Planet,Thriller,2000,106,AU).
-film(In Harm's Way,War,1965,165,US).
-film(Bringing Ashley Home,Drama,2011,87,CA).
-film(Godzilla vs. Megalon,Science,1973,78,JP).
-film(The Bishop Murder Case,Mystery,1930,88,US).
-film(Among Giants,Comedy,1998,93,GB).
-film(The Fourth Annual 'On Cinema' Oscar Special,Comedy,2016,185,US).
-film(Ditirambo,Mystery,1969,103,ES).
-film(On Moonlight Bay,Comedy,1951,95,US).
-film(The Night They Raided Minsky's,Comedy,1968,99,US).
-film(Terrified,Thriller,1995,95,US).
-film(Les Visiteurs du Soir,Drama,1942,120,FR).
-film(The Spanish Apartment,Drama,2002,122,FR).
-film(Lorelei: The Witch of the Pacific Ocean,Drama,2005,128,JP).
-film(Los Enchiladas!,Comedy,1999,74,US).
-film(Lily Sometimes,Drama,2010,103,FR).
-film(One Eyed Girl,Drama,2014,110,AU).
-film(Tanna,Romance,2015,100,AU).
-film(Kirikou and the Wild Beasts,Adventure,2005,75,FR).
-film(Mega Shark vs Giant Octopus,Horror,2009,90,US).
-film(Häxan,Horror,1922,104,DK).
-film(Connie and Carla,Music,2004,98,US).
-film(The Fish Child,Drama,2009,96,AR).
-film(A Night at the Movies: The Suspenseful World of Thrillers,Documentary,2009,58,US).
-film(Class of 1999 II - The Substitute,Action,1994,87,US).
-film(Love's Kitchen,Drama,2011,86,GB).
-film(S21: The Khmer Rouge Death Machine,Documentary,2003,101,KH).
-film(Virtual Sexuality,Comedy,1999,92,GB).
-film(The Extra Girl,Comedy,1923,68,US).
-film(Scooby-Doo! and the Cyber Chase,Animation,2001,75,US).
-film(Schlussmacher,Comedy,2013,110,DE).
-film(Hangover Square,Crime,1945,77,US).
-film(Sukeban Deka The Movie,Thriller,1987,93,JP).
-film(Molokai: The Story of Father Damien,Drama,2002,0,AU).
-film(F for Fake,Documentary,1973,89,DE).
-film(Think Fast, Mr. Moto,Crime,1937,67,US).
-film(X: The Unheard Music,Music,1986,84,US).
-film(Embrace of the Serpent,Adventure,2015,125,AR).
-film(Camino,Thriller,2016,103,US).
-film(Dirty Ho,Action,1979,103,HK).
-film(Armored,Action,2009,88,US).
-film(My Life Directed by Nicolas Winding Refn,Documentary,2014,58,US).
-film(Dinosaurus!,Adventure,1960,85,US).
-film(Criminally Insane,Horror,1975,61,US).
-film(Angels One Five,Drama,1952,98,GB).
-film(Circle of Iron,Fantasy,1978,102,US).
-film(Floundering,Comedy,1994,96,US).
-film(The Appointment,Drama,1969,115,US).
-film(Blink,Mystery,1994,106,US).
-film(Blue Blood,Documentary,2006,95,GB).
-film(Neighbors 2: Sorority Rising,Comedy,2016,91,US).
-film(Zatôichi's Revenge,Action,1965,84,JP).
-film(George Washington,Drama,2000,89,US).
-film(Keep Your Distance,Drama,2005,94,US).
-film(Prison,Drama,1949,80,SE).
-film(Faith Connections,Documentary,2013,115,FR).
-film(Rasputin and the Empress,Drama,1932,121,US).
-film(How to Make Money Selling Drugs,Documentary,2012,96,US).
-film(Bleak Night,Drama,2010,117,KR).
-film(The Life of Guskou Budori,Drama,2012,106,JP).
-film(Meet Me in St. Louis,Comedy,1944,113,US).
-film(Pollyanna,Drama,2003,99,GB).
-film(The Triplets of Belleville,Adventure,2003,80,FR).
-film(Domino Kid,Western,1957,74,US).
-film(Adama,Animation,2015,85,FR).
+film(Thrashin',Action,1986,93,US).
+film(Bloodsport: The Dark Kumite,Action,1999,100,BE).
+film(Hello, Frisco, Hello,Comedy,1943,99,US).
+film(House,Drama,2008,101,PL).
+film(A Very Brady Sequel,Comedy,1996,90,US).
+film(The Executor,Action,1981,95,HK).
+film(The Pianist,Drama,2002,150,FR).
+film(El truco del manco,Drama,2008,0,ES).
+film(Hyena,Drama,2014,112,GB).
+film(Miss Blue Jeans,Comedy,2012,86,FI).
+film(Johanna d'Arc of Mongolia,Comedy,1989,165,FR).
+film(Illusive Tracks,Comedy,2003,100,SE).
+film(I Eat Your Skin,Horror,1971,84,US).
+film(Delta Force 2: The Colombian Connection,Action,1990,111,US).
+film(Battlefield Baseball,Comedy,2003,87,JP).
+film(Casual Relations,Drama,1974,80,US).
+film(Crepuscule,Drama,2009,70,NL).
+film(Big Stan,Comedy,2007,105,US).
+film(The Keeping Room,Drama,2014,95,US).
+film(Megamind: The Button Of Doom,Animation,2011,16,US).
+film(The Second Civil War,Drama,1997,97,US).
+film(Hamlet at Elsinore,Drama,1964,170,GB).
+film(Emily & Tim,Drama,2015,88,US).
+film(Three Colors: White,Comedy,1994,91,FR).
+film(The Check Is in the Mail...,Comedy,1986,83,US).
+film(Walt Before Mickey,Drama,2015,120,US).
+film(In Old Santa Fe,Comedy,1934,64,US).
+film(The Exorcist III,Thriller,1990,110,US).
+film(Hyde Park on Hudson,Comedy,2012,94,GB).
+film(Knockin' on Heaven's Door,Comedy,1997,87,BE).
+film(Mirrors 2,Horror,2010,86,US).
+film(Dead Man,Drama,1995,121,DE).
 film(Mockery,Romance,1927,75,US).
-film(The Liberator,Drama,2013,119,ES).
-film(Against the Ropes,Romance,2004,106,DE).
-film(The Devil's Own,Crime,1997,107,US).
-film(Mama,Adventure,1976,83,RU).
-film(The Land Unknown,Adventure,1957,78,US).
-film(The Secret Nation,Drama,1989,128,BO).
-film(Invasion of the Body Snatchers,Horror,1978,115,US).
-film(Crime + Punishment in Suburbia,Drama,2000,100,US).
-film(Condemned,Horror,2015,83,US).
-film(Deep Core,Action,2000,80,US).
-film(Paradise Lost: The Child Murders at Robin Hood Hills,Documentary,1996,150,US).
-film(Black God, White Devil,Adventure,1964,120,BR).
-film(You and the Night,Romance,2013,92,FR).
-film(I Am Jane Doe,Crime,2017,91,US).
-film(Sympathy for Lady Vengeance,Drama,2005,115,KR).
-film(Tarzan,Animation,2013,94,DE).
-film(Sex & Drugs & Rock & Roll,Drama,2010,115,GB).
-film(Circumstance,Drama,2011,107,FR).
-film(A Confucian Confusion,Comedy,1994,125,TW).
-film(Dinosaurier - Gegen uns seht ihr alt aus!,Comedy,2009,105,DE).
-film(The Entertainer,Drama,1960,96,GB).
-film(The Adopted Son,Drama,1998,81,KG).
-film(Fortress 2,Science,1999,92,LU).
-film(Battle for Sevastopol,Drama,2015,110,UA).
-film(Saving Face,Crime,2012,40,PK).
-film(Malicious,Comedy,1973,93,IT).
-film(Adult Beginners,Drama,2014,90,US).
-film(Batman Beyond: Return of the Joker,Animation,2000,74,US).
-film(Carson City,Western,1952,87,US).
-film(This Film Is Not Yet Rated,Documentary,2006,98,GB).
-film(Problem Child 2,Comedy,1991,90,US).
-film(The Virgin Suicides,Drama,1999,97,US).
-film(Inventing the Abbotts,Drama,1997,110,US).
-film(Housesitter,Comedy,1992,102,US).
-film(Blues Busters,Comedy,1950,67,US).
-film(Anything Else,Comedy,2003,108,GB).
-film(The Third Eye,Horror,1966,98,IT).
-film(Green Lantern: Emerald Knights,Action,2011,84,US).
-film(A Sixth Part of the World,Documentary,1926,65,SU).
-film(Curse of the Pink Panther,Crime,1983,109,GB).
-film(Come Blow Your Horn,Drama,1963,112,US).
-film(Nora Roberts' Blue Smoke,Action,2007,95,US).
-film(Bewitched,Drama,1945,65,US).
-film(Icarus,Action,2010,88,US).
-film(Donnie Darko,Fantasy,2001,113,US).
-film(Please Murder Me,Crime,1956,78,US).
-film(Satellite in the Sky,Science,1956,85,GB).
-film(Ted Bundy,Crime,2002,99,US).
-film(Arabian Nights,Drama,2000,175,US).
-film(The Extraordinary Adventures of Adèle Blanc-Sec,Fantasy,2010,105,FR).
-film(The Scarlet Pimpernel,Action,1982,142,GB).
-film(Battle For Haditha,Action,2007,97,GB).
-film(Boyka: Undisputed IV,Thriller,2016,87,BG).
-film(The Snow Creature,Horror,1954,71,US).
-film(Much Ado About Nothing,Drama,2016,94,FR).
-film(Avenging Angel,Action,1985,93,US).
-film(Camarón: When Flamenco Became Legend,Drama,2005,119,ES).
-film(Piper,Family,2016,6,US).
-film(I Aim at the Stars,Drama,1960,106,US).
-film(Jailbait,Drama,2004,90,US).
-film(The Town That Dreaded Sundown,Horror,1976,86,US).
-film(The Young Vagabond,Action,1985,85,HK).
-film(Mikey,Thriller,1992,90,US).
-film(The House of Light,Drama,1969,78,CA).
-film(A Tale of Love and Darkness,Drama,2015,95,US).
-film(Bad Eggs,Comedy,2003,98,AU).
-film(Shock Waves,Horror,1977,85,US).
-film(Pleasantville,Fantasy,1998,124,US).
-film(OSS 117: Cairo, Nest of Spies,Crime,2006,99,FR).
-film(Gabbeh,Drama,1996,75,IR).
-film(Second String,Movie,2002,100,US).
-film(Last Orders,Comedy,2001,109,DE).
-film(Helix,Action,2015,98,CA).
-film(A Shot at Glory,Drama,2000,104,GB).
-film(Cavegirl,Comedy,1985,85,US).
-film(I Embrace You With 1000 Arms,Foreign,2006,110,NL).
-film(Shocking Dark,Action,1990,90,IT).
-film(Millions,Comedy,2005,98,GB).
-film(The Ghost of Yotsuya,Horror,1959,76,JP).
-film(It Started with Eve,Comedy,1941,90,US).
-film(The Twelve Months,Fantasy,1956,55,RU).
-film(National Geographic: Journey to the Edge of the Universe,Documentary,2008,91,US).
-film(Saint Seiya: Warriors of the Final Holy Battle,Action,1989,45,JP).
-film(La Cage aux folles,Comedy,1978,99,FR).
-film(Goin' to Town,Comedy,1935,74,US).
-film(El barrendero,Comedy,1982,113,MX).
-film(Diva,Action,1981,117,FR).
-film(36 Hours,Drama,1964,115,US).
-film(Looney Tunes: Back in Action,Animation,2003,90,DE).
-film(Charlie and the Chocolate Factory,Adventure,2005,115,AU).
-film(Vampir-Cuadecuc,Horror,1971,67,ES).
-film(Cold Feet,Crime,1989,94,US).
-film(German Angst,Mystery,2015,111,DE).
-film(Aloys,Drama,2016,90,CH).
-film(The Rover,Crime,2014,103,AU).
-film(First Kid,Comedy,1996,101,US).
-film(Choice of Purpose,Drama,1975,158,RU).
-film(Perfect Love,Drama,1996,110,FR).
-film(Grass Labyrinth,Drama,1979,50,FR).
-film(Timerider: The Adventure of Lyle Swann,Action,1982,94,US).
-film(Return to Montauk,Drama,2017,106,IE).
-film(Moon,Science,2009,97,GB).
-film(Merci pour le Chocolat,Drama,2000,99,CH).
-film(Starter for 10,Drama,2006,92,GB).
-film(Cheyenne Autumn,Western,1964,154,US).
-film(The Apple Game,Comedy,1977,100,CZ).
-film(The Barefoot Contessa,Mystery,1954,128,US).
-film(Boy Interrupted,Documentary,2009,92,US).
-film(El ángel de Budapest,War,2011,109,ES).
-film(An Adventure in Space and Time,Drama,2013,90,GB).
-film(The Tall Blond Man with One Black Shoe,Comedy,1972,90,FR).
-film(Pokémon: Arceus and the Jewel of Life,Animation,2009,94,JP).
-film(Punisher: War Zone,Action,2008,102,CA).
-film(Rounders,Drama,1998,121,US).
-film(I Am Belfast,Documentary,2016,84,GB).
-film(Johnny Yuma,Action,1966,100,IT).
-film(I Love You,Drama,1986,101,IT).
-film(Supervolcano,Action,2005,120,DE).
-film(Ants in the Pants,Comedy,2000,95,DE).
-film(Little Accidents,Drama,2015,105,US).
-film(Caged,Crime,1950,96,US).
-film(Little Voice,Comedy,1998,97,GB).
-film(Isolation,Action,2015,86,US).
-film(Neverwas,Drama,2005,108,CA).
-film(The Canterville Ghost,Movie,1996,92,US).
-film(A Fistful of Fingers,Comedy,1995,78,GB).
-film(Severance,Horror,2006,96,GB).
-film(Dangerously Excited,Drama,2011,101,KR).
-film(LSD: Love, Sex aur Dhokha,Drama,2010,108,IN).
-film(Forsaken,Horror,2016,89,US).
-film(Office Space,Comedy,1999,89,US).
-film(Killed by Lightning,Drama,2002,65,RU).
-film(Mrs. Winterbourne,Comedy,1996,105,US).
-film(Underworld: Evolution,Fantasy,2006,106,US).
-film(Alone For Christmas,Comedy,2013,82,US).
-film(Pyaar Impossible,Drama,2010,140,IN).
-film(The Wind Journeys,Drama,2009,117,AR).
-film(An American Girl: McKenna Shoots for the Stars,Family,2012,85,CA).
-film(Drums Across the River,Western,1954,78,US).
-film(Toomelah,Drama,2011,106,AU).
-film(Never Travel on a One Way Ticket,Thriller,1987,87,SE).
-film(Air Bud 3: World Pup,Comedy,2001,83,US).
-film(Clipped Wings,Comedy,1953,62,US).
-film(Lovers of the Arctic Circle,Drama,1998,112,ES).
-film(It's a Mad, Mad, Mad, Mad World,Action,1963,163,US).
-film(Pao's Story,Drama,2006,98,VN).
-film(Casual Encounters,Comedy,2016,82,US).
-film(See How They Fall,Drama,1994,90,FR).
-film(Outlaw: Goro the Assassin,Foreign,1968,87,JP).
-film(Extreme Measures,Drama,1996,118,US).
-film(Little Big Man,Adventure,1970,139,US).
-film(Stanley,Horror,1972,108,US).
-film(Frost Bite,Comedy,2006,98,RU).
-film(Viral,Drama,2016,86,US).
-film(The Wrestler,Drama,2008,109,US).
-film(George Lopez: Tall, Dark & Chicano,Comedy,2009,90,US).
-film(New Dragon Gate Inn,Action,1992,103,HK).
-film(Yakuza: Like a Dragon,Drama,2007,110,JP).
-film(Jarhead 2: Field of Fire,War,2014,103,US).
-film(Love in the City,Drama,1953,105,IT).
-film(The Great Debaters,Drama,2007,126,US).
-film(The Baby Maker,Drama,1970,109,US).
-film(Shoot the Moon,Drama,1982,124,US).
-film(Get Out Your Handkerchiefs,Romance,1978,108,FR).
-film(Invisible Waves,Drama,2006,115,NL).
-film(Cropsey,Documentary,2010,85,US).
-film(Night World,Drama,1932,58,US).
-film(Hard Rain,Thriller,1998,97,DK).
-film(The Great Gilly Hopkins,Comedy,2015,99,US).
-film(The Purple Ball,Family,1987,77,RU).
-film(Three Fugitives,Comedy,1989,96,US).
-film(Goodbye & Amen,Thriller,1978,103,IT).
-film(Gutshot Straight,Thriller,2014,89,US).
-film(The Slipper and the Rose,Adventure,1976,146,GB).
-film(Mystery in Mexico,Crime,1948,66,US).
-film(Plan B,Comedy,2009,103,AR).
-film(Frankenweenie,Comedy,1984,29,US).
-film(I Even Met Happy Gypsies,Drama,1967,94,YU).
-film(Sister Kenny,Drama,1946,116,US).
-film(The Oh in Ohio,Comedy,2006,88,US).
-film(Gli equilibristi,Drama,2012,100,IT).
-film(Adore,Drama,2013,100,FR).
-film(Hider in the House,Horror,1989,104,US).
-film(Don't Go to the Reunion,Horror,2013,70,US).
-film(My Dear Desperado,Romance,2010,100,KR).
-film(You Are My Only Love,Drama,1993,101,RU).
-film(Salaam Cinema,Documentary,1995,75,IR).
-film(Curious George 2: Follow That Monkey!,Animation,2009,80,US).
-film(Cracks,Drama,2009,104,IE).
-film(The Stopover,Drama,2016,102,GR).
-film(Absolute Deception,Action,2013,92,US).
-film(James Dean,Drama,2001,90,US).
-film(The Memory Keeper's Daughter,Drama,2008,90,US).
-film(Monster High: Friday Night Frights,Animation,2013,46,US).
-film(Carla's Song,War,1996,125,GB).
-film(The Great Waltz,Drama,1972,135,US).
-film(The Gods Must Be Crazy,Action,1980,109,ZA).
-film(The Hollars,Comedy,2016,105,US).
-film(The World,Drama,2005,143,CN).
-film(Take Me to the River,Documentary,2014,95,CA).
-film(Kagemusha,Action,1980,180,JP).
-film(The Hunt for Gollum,Action,2009,38,GB).
-film(Focus,Romance,2015,105,US).
-film(11/11/11,Horror,2011,87,US).
-film(Tom and Jerry: The Magic Ring,Animation,2002,62,US).
-film(Still the Water,Drama,2014,121,JP).
-film(The Little Hut,Comedy,1957,90,US).
-film(Prince Valiant,Adventure,1954,100,US).
-film(South Pacific,Music,1958,157,US).
-film(Creepshow,Horror,1982,120,US).
-film(Lazer Team,Action,2016,102,US).
-film(Over the Garden Wall,Adventure,2014,110,US).
-film(The Blues Brothers,Music,1980,133,US).
-film(Bakhita,History,2009,0,IT).
+film(You Can't Get Away with Murder,Drama,1939,89,US).
+film(Shaolin Soccer,Action,2001,113,CN).
+film(Concrete Night,Drama,2013,96,DK).
+film(Universal Soldier,Action,1972,94,GB).
+film(Nice Dreams,Comedy,1981,88,US).
+film(Calendar,Comedy,1993,74,AM).
+film(Convenience,Action,2015,87,GB).
+film(The Lady in the Car with Glasses and a Gun,Drama,1970,105,FR).
+film(Windows,Horror,1980,96,US).
+film(Trishna,Drama,2011,117,GB).
+film(Welcome to the Space Show,Animation,2010,136,JP).
+film(Marius,Drama,2013,93,FR).
+film(Kung Fu Killer,Action,2008,93,US).
+film(The Disappearance of Eleanor Rigby: Them,Drama,2014,119,US).
+film(Miss Conception,Comedy,2008,104,DE).
+film(Every Which Way But Loose,Action,1978,110,US).
+film(The Lost Moment,Drama,1947,89,US).
+film(Shaolin Mantis,Action,1978,96,HK).
+film(The Dark at the Top of the Stairs,Drama,1960,124,US).
+film(Pornography: A Thriller,Thriller,2009,115,US).
+film(Out of the Past,Drama,1947,97,US).
+film(Sarafina!,Drama,1992,117,ZA).
+film(Harvie Krumpet,Animation,2003,23,AU).
+film(The Guardian,Action,2006,139,US).
+film(Pestonjee,Comedy,1988,125,IN).
+film(Cheri,Drama,2009,86,DE).
+film(If These Walls Could Talk 2,Romance,2000,96,US).
+film(Alexandria… Why?,Drama,1979,133,EG).
+film(The Man Who Came to Dinner,Comedy,1942,112,US).
+film(Gunsmith Cats: Bulletproof!,Animation,1995,90,JP).
+film(Horse Feathers,Comedy,1932,68,US).
+film(Unlocked,Action,2017,98,CZ).
+film(All Ladies Do It,Comedy,1992,93,IT).
+film(Summer Storm,Drama,1944,106,US).
+film(Gang War in Milan,Action,1973,90,IT).
+film(The Firm,Drama,2009,90,GB).
+film(O Quatrilho,Drama,1995,92,BR).
+film(Tarot,Horror,1973,91,ES).
+film(Spasms,Horror,1983,90,CA).
+film(Daddy or Mommy,Comedy,2015,85,FR).
+film(Personal Property,Comedy,1937,84,US).
+film(Gunday,Action,2014,152,IN).
+film(The Home and the World,Drama,1985,140,IN).
+film(Lake Dead,Horror,2007,90,US).
+film(She-Devil,Comedy,1989,99,US).
+film(Indigenous,Horror,2014,86,US).
+film(Apartment 1303 3D,Horror,2012,101,US).
+film(Under the Hawthorn Tree,Drama,2010,113,CN).
+film(Frankenstein Created Woman,Horror,1967,92,GB).
+film(Twitches Too,Drama,2007,83,US).
+film(Delta,Drama,2008,96,DE).
+film(Torrente 2: Mission in Marbella,Comedy,2001,99,ES).
+film(Kamchatka,Drama,2002,106,AR).
+film(The Sundowners,Drama,1960,133,GB).
+film(The Broken Tower,Drama,2012,99,US).
+film(Cadillac Records,Drama,2008,109,US).
+film(Fading of the Cries,Horror,2011,90,US).
+film(The Truth About Bebe Donge,Drama,1952,110,FR).
+film(The Exorcist,Drama,1973,122,US).
+film(I.Q.,Comedy,1994,100,US).
+film(The Simpsons Movie,Animation,2007,87,US).
+film(James White,Drama,2015,85,US).
+film(Korczak,Drama,1990,115,DE).
+film(Comedy Central Roast of James Franco,Comedy,2013,70,US).
+film(The Death of Mr. Lazarescu,Comedy,2005,150,RO).
+film(The Widow Couderc,Action,1971,92,FR).
+film(Nuts in May,Comedy,1976,84,GB).
+film(Shrimp on the Barbie,Comedy,1990,90,AU).
+film(Safe Men,Comedy,1998,88,US).
+film(Ring of Fire,Drama,2013,90,US).
+film(Under the North Star,Drama,2009,193,FI).
+film(Hedwig and the Angry Inch,Comedy,2001,95,US).
+film(Vixen!,Comedy,1968,70,US).
+film(Macropolis,Animation,2012,8,GB).
+film(Moonlight in Vermont,Romance,2017,90,US).
+film(Rolling Thunder,Action,1977,95,US).
+film(Tank,Action,1984,113,US).
+film(The Journey,Drama,2017,94,GB).
+film(Office Romance,Comedy,1977,159,RU).
+film(Eddie Pepitone: In Ruins,Comedy,2014,64,US).
+film(The Mudge Boy,Drama,2003,94,US).
+film(Mutant Action,Action,1993,94,FR).
+film(Up!,Comedy,1976,80,US).
+film(Four Last Songs,Comedy,2007,110,ES).
+film(Yobi, The Five-Tailed Fox,Animation,2007,86,KR).
+film(The Hangover,Comedy,2009,100,DE).
+film(Montenegro,Comedy,1981,96,SE).
+film(The Amazing Panda Adventure,Action,1995,81,US).
+film(Kriminal,Action,1966,98,ES).
+film(Mr. Kuka's Advice,Comedy,2008,0,AT).
+film(Black Night,Drama,2005,90,BE).
+film(Bong of the Dead,Action,2011,91,CA).
+film(Class Reunion,Comedy,1982,84,US).
+film(11 Harrowhouse,Drama,1974,94,GB).
+film(The Dawn Patrol,Action,1930,108,US).
+film(The Gunman,Action,2015,115,FR).
+film(Stormy Waters,Action,1941,91,FR).
+film(The Computer Wore Tennis Shoes,Comedy,1969,91,US).
+film(I Hate But Love,Romance,1962,106,JP).
+film(The Taste of Money,Drama,2012,115,KR).
+film(Mrs. Doubtfire,Comedy,1993,125,US).
+film(Wild Grass,Drama,2009,104,FR).
+film(Twin Peaks: Fire Walk with Me,Drama,1992,134,US).
+film(Poppy,Comedy,1936,75,US).
+film(Zombies: The Beginning,Action,2007,91,IT).
 film(Wonderful World,Comedy,2009,89,US).
-film(The First Man,Drama,2011,100,FR).
-film(Hustle & Flow,Drama,2005,116,US).
-film(End of the Spear,Adventure,2005,108,US).
-film(The Seventh Juror,Crime,1962,90,FR).
-film(Sundown: The Vampire in Retreat,Comedy,1989,104,US).
-film(Hood of Horror,Action,2006,84,US).
-film(StarStruck,Comedy,2010,90,US).
-film(The Almost Man,Comedy,2012,80,NO).
-film(Better This World,Documentary,2011,89,US).
-film(A Single Girl,Drama,1995,90,FR).
-film(Elvis on Tour,Documentary,1972,93,US).
-film(Dr. Jack,Comedy,1922,60,US).
-film(The Solid Gold Cadillac,Comedy,1956,99,US).
-film(My Blueberry Nights,Drama,2007,111,CN).
-film(Java Heat,Action,2013,104,US).
-film(Dirty O'Neil,Comedy,1974,89,US).
-film(What Have They Done to Your Daughters?,Mystery,1974,87,IT).
-film(Here Comes the Devil,Horror,2012,97,MX).
-film(He Ran All The Way,Drama,1951,77,US).
-film(The Flying Scotsman,Drama,2006,96,GB).
-film(Girl in Progress,Comedy,2012,93,US).
-film(Inn of Evil,Crime,1971,121,JP).
-film(Up In Smoke,Comedy,1957,61,US).
-film(Lone Star,Drama,1996,135,US).
-film(The Polish Bride,Drama,1998,89,NL).
-film(Bad 25,Documentary,2012,131,US).
-film(Queen of the Mountains,Drama,2014,135,KG).
-film(13th,Documentary,2016,100,US).
-film(The Rat Savior,Science,1976,80,HR).
-film(Loose Cannons,Comedy,2010,110,IT).
-film(Kid Galahad,Comedy,1962,95,US).
-film(Bandido!,Action,1956,92,US).
-film(How to Survive a Plague,Documentary,2012,120,US).
-film(Trader Horn,Action,1931,122,US).
-film(Train of Life,Drama,1998,103,BE).
-film(Down to You,Comedy,2000,91,US).
-film(Chuck,Drama,2017,101,US).
-film(Triad Wars,Action,2008,112,HK).
-film(Cropsey,Documentary,2010,85,US).
-film(Sanam Teri Kasam,Drama,2016,154,IN).
-film(The Land Before Time XIV: Journey of the Brave,Adventure,2016,82,US).
-film(A Beginner's Guide to Endings,Comedy,2010,92,CA).
-film(Palo Alto,Drama,2014,100,US).
-film(Ten Canoes,Adventure,2006,90,AU).
-film(Bouncing Babies,Family,1929,20,US).
-film(Vampires,Comedy,2010,88,BE).
-film(Welcome to Mooseport,Comedy,2004,110,DE).
-film(First Monday in October,Comedy,1981,98,US).
-film(Men of War,Action,1994,103,US).
-film(That Lady in Ermine,Comedy,1948,89,US).
-film(This Special Friendship,Drama,1964,99,FR).
-film(Night Will Fall,Documentary,2014,75,GB).
-film(Dead Man's Folly,Crime,1986,90,US).
-film(Jawbone,Action,2017,91,GB).
-film(Four Jills in a Jeep,Comedy,1944,89,US).
-film(Victory Through Air Power,Animation,1943,70,US).
-film(Push,Action,2009,111,US).
-film(Johnny Guitar,Drama,1954,110,US).
-film(Floating Clouds,Drama,1955,123,JP).
-film(Stop! Or My Mom Will Shoot,Action,1992,87,US).
-film(Pokémon: The Movie 2000,Adventure,1999,84,JP).
-film(Master and Tatyana,Documentary,2015,80,RU).
-film(Scavengers,Action,2013,94,US).
-film(The Testimony,Crime,1946,98,IT).
-film(They All Laughed,Drama,1981,115,US).
-film(Winning,Action,1969,123,US).
-film(Aliens,Horror,1986,137,GB).
-film(I Travel Because I Have to, I Come Back Because I Love You,Drama,2009,75,BR).
-film(Babylon,Drama,1980,95,GB).
-film(Invisible Stripes,Crime,1939,81,US).
-film(The Roaring Twenties,Crime,1939,104,US).
-film(Do You Believe?,Fantasy,2015,115,US).
-film(The Ninth Gate,Horror,1999,133,FR).
-film(Bellissima,Comedy,1951,108,IT).
-film(Park Row,Drama,1952,83,US).
-film(Nine to Five,Comedy,1980,110,US).
-film(Risto Räppääjä ja liukas Lennart,Comedy,2014,77,FI).
-film(The Beatles: Eight Days a Week - The Touring Years,Documentary,2016,99,GB).
-film(The Con Artists,Thriller,2014,116,KR).
-film(Language of Love,Documentary,1969,98,SE).
-film(Apaharan,Action,2005,173,IN).
-film(A Personal Journey with Martin Scorsese Through American Movies,Documentary,1995,225,US).
-film(Lonely Hearts,Drama,2006,108,US).
-film(Here Come the Waves,Comedy,1944,99,US).
-film(All Inclusive ili Vsyo Vklyucheno,Comedy,2011,93,RU).
-film(Love After Love,Romance,1992,104,PT).
-film(The Light Bulb Conspiracy,Documentary,2010,75,FR).
-film(The Roosevelts: An Intimate History,History,2014,840,US).
-film(Mardi Gras: Spring Break,Comedy,2011,88,US).
-film(Suspicion,Mystery,1941,99,US).
-film(We Are the Freaks,Comedy,2014,72,GB).
-film(King of Hearts,Comedy,1966,102,FR).
-film(De Indringer,Horror,2005,110,BE).
-film(Mystery Train,Crime,1989,113,JP).
-film(Indiana Jones and the Last Crusade,Adventure,1989,127,US).
-film(The Struggle,Drama,1931,87,US).
-film(The Ghostmaker,Horror,2011,91,US).
-film(Kung Fu Panda: Secrets of the Masters,Family,2011,24,US).
-film(The Walking Deceased,Science,2015,90,US).
-film(Mobile Suit Gundam 00: A Wakening of the Trailblazer,Action,2010,123,JP).
-film(August Rush,Family,2007,114,US).
-film(Sadako 3D,Horror,2012,96,JP).
-film(Mulligans,Drama,2008,92,CA).
-film(Timescape,Mystery,1992,99,US).
-film(Three on a Couch,Comedy,1966,109,US).
-film(Rendition,Drama,2007,120,US).
-film(Wild Orchid,Drama,1989,105,US).
-film(Giant,Drama,2009,88,UY).
-film(Novena,Drama,2005,97,CA).
-film(Asoka,Drama,2001,155,IN).
-film(The Ambulance,Action,1989,91,US).
-film(City Lights,Comedy,1931,87,US).
-film(Shadows of Forgotten Ancestors,Drama,1965,97,UA).
-film(Second Chances,Drama,2013,0,US).
-film(Trial by Jury,Drama,1994,107,US).
-film(MVP: Most Valuable Primate,Action,2000,93,US).
-film(Legend of Crystania: The Motion Picture,Action,1995,78,JP).
-film(The Sudden Wealth of the Poor People of Kombach,Drama,1971,102,DE).
-film(Subconscious Cruelty,Horror,2000,92,CA).
-film(First Squad: The Moment of Truth,Fantasy,2009,73,JP).
-film(I Smile Back,Drama,2015,85,US).
-film(The Hairdresser's Husband,Comedy,1990,82,FR).
-film(The Music of Chance,Drama,1993,98,US).
-film(Heckler,Documentary,2007,80,US).
-film(Sinners and Saints,Action,2010,104,US).
-film(Repossessed,Comedy,1990,80,US).
-film(The Beatniks,Drama,1960,78,US).
-film(Premam,Comedy,2015,165,IN).
-film(Ulee's Gold,Drama,1997,112,US).
-film(Children of Heaven,Drama,1997,89,IR).
-film(Billa,Action,2007,130,IN).
-film(O Lucky Man!,Music,1973,183,GB).
-film(Coven,Drama,2000,40,US).
-film(Argo,Drama,2012,120,US).
-​
+film(Squatters,Drama,2014,102,US).
+film(The Good Girl,Drama,2002,93,NL).
+film(The Five Heartbeats,Drama,1991,121,US).
+film(Mel Brooks: Live at the Geffen,Comedy,2015,58,US).
+film(When a Stranger Calls,Horror,2006,87,US).
+film(Thunderheart,Action,1992,119,US).
+film(Baby Mama,Comedy,2008,99,US).
+film(No Mercy,Thriller,2010,125,KR).
+film(Van Wilder 2: The Rise of Taj,Comedy,2006,97,US).
+film(Hit the Ice,Comedy,1943,82,US).
+film(Sword for Truth,Animation,1990,49,JP).
+film(The Work and the Glory III: A House Divided,Drama,2006,89,US).
+film(Christine,Drama,2016,123,US).
+film(The Piano in a Factory,Drama,2011,107,CN).
+film(Fuck Up,Drama,2012,100,NO).
+film(Ghost Writer,Comedy,2007,91,US).
+film(The Maze Runner,Action,2014,113,US).
+film(Scorcher,Action,2003,91,US).
+film(An Annapolis Story,Drama,1955,81,US).
+film(The Natural,Drama,1984,137,US).
+film(Dollman vs. Demonic Toys,Horror,1993,64,US).
+film(Alex: The Life of a Child,Drama,1986,100,US).
+film(Ghost in the Shell Arise - Border 3: Ghost Tears,Action,2014,59,JP).
+film(The Transporter Refueled,Thriller,2015,96,BE).
+film(Midnight Manhunt,Comedy,1945,64,US).
+film(Harold's Going Stiff,Comedy,2011,77,GB).
+film(The Notorious Landlady,Comedy,1962,123,US).
+film(Class of Nuke 'Em High 2: Subhumanoid Meltdown,Comedy,1991,90,US).
+film(Hello Down There,Comedy,1969,88,US).
+film(Touchez Pas au Grisbi,Action,1954,94,FR).
+film(Be Somebody,Drama,2016,88,US).
+film(In Secret,Drama,2013,101,US).
+film(A Serious Man,Comedy,2009,105,US).
+film(The Subtenant,Comedy,2008,104,FI).
+film(The Informers,Drama,2008,98,DE).
+film(The Party at Kitty and Stud's,Drama,1970,71,US).
+film(Winners & Sinners,Action,1983,108,HK).
+film(Dead Man's Shoes,Drama,2004,90,GB).
+film(Villain,Drama,2010,139,JP).
+film(The Little Matchgirl,Drama,2006,7,US).
+film(Things You Can Tell Just by Looking at Her,Drama,1999,109,US).
+film(Waiting for Forever,Drama,2010,94,US).
+film(Brother's War,Action,2009,100,US).
+film(Colt 45,Drama,2014,85,FR).
+film(The Assassination Bureau,Thriller,1969,110,GB).
+film(Hokuspokus,Comedy,1953,nan,DE).
+film(Carry On at Your Convenience,Comedy,1971,90,GB).
+film(Hate Story,Thriller,2012,141,IN).
+film(Rango,Animation,2011,107,US).
+film(Leaving Normal,Drama,1992,110,US).
+film(Those Calloways,Drama,1965,131,US).
+film(Identical,Thriller,2011,90,US).
+film(Kill Buljo,Action,2007,93,NO).
+film(Dr. Kildare Goes Home,Drama,1940,79,US).
+film(Back to School,Comedy,1986,96,US).
+film(The Haunting in Connecticut,Thriller,2009,102,US).
+film(D-Tox,Action,2002,96,US).
+film(The Road Killers,Drama,1994,89,US).
+film(A Loving Father,Drama,2002,103,FR).
+film(Policeman,Drama,2011,105,IL).
+film(The Mysterious House of Dr. C.,Drama,1976,88,ES).
+film(Company Man,Comedy,2000,86,FR).
+film(Satan Met a Lady,Comedy,1936,74,US).
+film(Li'l Abner,Comedy,1959,114,US).
+film(In the Shadow of Death,Drama,1971,80,LV).
+film(Young Cassidy,Drama,1965,110,GB).
+film(Ciudad Delirio,Comedy,2014,0,ES).
+film(Baden Baden,Drama,2016,95,BE).
+film(Certified Copy,Drama,2010,106,FR).
+film(Tarzan Escapes,Action,1936,89,US).
+film(The Doctor,Drama,1991,122,US).
+film(Filth and Wisdom,Comedy,2008,81,GB).
+film(Swamp Thing,Horror,1982,91,US).
+film(Copying Beethoven,Drama,2006,104,DE).
+film(Hail Caesar,Comedy,1994,100,US).
+film(La montaña rusa,Comedy,2012,110,ES).
+film(Cry of the Banshee,Horror,1970,91,GB).
+film(Fatal Contact: Bird Flu in America,Action,2006,83,US).
+film(La Fleur de l'âge,Comedy,2013,83,FR).
+film(Iron Man & Hulk: Heroes United,Action,2013,71,US).
+film(Kitty,Drama,1945,103,US).
+film(The Man Who Played God,Romance,1932,80,US).
+film(Ek Thi Daayan,Horror,2013,135,IN).
+film(The Amazing Mr. Bickford,Animation,1987,52,US).
+film(The Twin Girls of Sunset Street,Thriller,2010,12,ES).
+film(Frankenhooker,Comedy,1990,85,US).
+film(Battle Angel,Animation,1993,54,JP).
+film(H.O.T.S.,Comedy,1979,98,US).
+film(Night Train to Terror,Horror,1985,98,US).
+film(XXY,Drama,2007,86,AR).
+film(Walk Hard: The Dewey Cox Story,Comedy,2007,96,US).
+film(Elvis & Nixon,Comedy,2016,87,US).
+film(Black Nativity,Drama,2013,93,US).
+film(Ring of Darkness,Horror,2004,85,US).
+film(Motel Hell,Comedy,1980,102,US).
+film(Infini,Horror,2015,110,AU).
+film(The Nanny Diaries,Comedy,2007,106,US).
+film(American Hero,Action,2015,86,US).
+film(Staying Vertical,Drama,2016,98,FR).
+film(The Great Man Votes,Drama,1939,72,US).
+film(Lake Placid 2,Horror,2007,88,US).
+film(The Grudge,Horror,2004,92,JP).
+film(Wild Guitar,Drama,1962,92,US).
+film(My Man,Romance,2014,129,JP).
+film(Casualties of War,Drama,1989,113,TH).
+film(On Dress Parade,Drama,1939,62,US).
+film(La révolution n'est pas un dîner de gala,Romance,2015,27,FR).
+film(The Town That Dreaded Sundown,Horror,1976,86,US).
+film(The Mistress of Spices,Drama,2005,92,GB).
+film(10,Comedy,1979,122,US).
+film(Poker In Bed,Comedy,1974,85,IT).
+film(The Lazarus Effect,Thriller,2015,83,US).
+film(Street Without End,Drama,1934,87,JP).
+film(Comedy Central Roast of Larry the Cable Guy,Comedy,2009,0,US).
+film(Virgin Report,Comedy,1972,82,DE).
+film(The Three Stooges,Comedy,2000,88,US).
+film(The Dark Wind,Drama,1991,111,US).
+film(The Unforgiven,Romance,1960,125,US).
+film(Pitch Black,Thriller,2000,108,US).
+film(My First Mister,Comedy,2001,109,DE).
+film(The Heavenly Body,Comedy,1944,95,US).
+film(Musée haut, musée bas,Comedy,2008,93,FR).
+film(We Need to Talk About Kevin,Drama,2011,112,GB).
+film(Jackass 3.5,Comedy,2011,85,US).
+film(Houston,Drama,2013,107,DE).
+film(Black Roses,Horror,1988,90,CA).
+film(Code Name: Emerald,Action,1985,95,US).
+film(Wolf Creek 2,Horror,2013,106,AU).
+film(Woman in the Dunes,Drama,1964,147,JP).
+film(Me, Myself and Mum,Comedy,2013,85,FR).
+film(Don't Bet on Women,Comedy,1931,70,US).
+film(The Family Man,Comedy,2000,125,US).
+film(American: The Bill Hicks Story,Comedy,2010,102,GB).
+film(Adam and Dog,Drama,2013,16,US).
+film(Flower and Snake 5: Rope Magic,Thriller,1987,0,JP).
+film(Jar City,Drama,2006,93,IS).
+film(Slovenian Girl,Drama,2009,90,SI).
+film(Jason Bourne,Action,2016,123,GB).
+film(Hannibal Buress: Live From Chicago,Comedy,2014,67,US).
+film(Final Destination 5,Horror,2011,92,US).
+film(Cleopatra Wong,Drama,1978,110,PH).
+film(Grind,Action,2003,105,US).
+film(Función de noche,Drama,1981,0,ES).
+film(Billion Dollar Brain,Thriller,1967,111,GB).
+film(Ernest Rides Again,Comedy,1993,94,CA).
+film(TEKKEN: Kazuya's Revenge,Action,2014,90,US).
+film(The Heart Machine,Drama,2014,85,US).
+film(Les invincibles,Comedy,2013,0,FR).
+film(Desperate Search,Drama,1952,73,US).
+film(Snake and Crane Arts of Shaolin,Drama,1978,96,HK).
+film(The Marriage of Figaro,Comedy,1975,181,DE).
+film(Slaves of New York,Drama,1989,124,US).
+film(The Family Fang,Comedy,2016,105,US).
+film(Croupier,Drama,1998,94,DE).
+film(Semi-Tough,Comedy,1977,108,US).
+film(Pinocchio,Animation,2012,75,IT).
+film(The Awful Dr. Orlof,Horror,1962,90,ES).
+film(Gabrielle,Drama,2013,104,CA).
+film(Make Way For A Lady,Comedy,1936,65,US).
+film(Season of Monsters,Drama,1987,89,HU).
+film(Casualties,Drama,1997,85,US).
+film(Boat Builders,Animation,1938,7,US).
+film(Fat Albert,Comedy,2004,93,US).
+film(President,Thriller,2006,97,FR).
+film(How Most Things Work,Drama,2015,0,AR).
+film(Who's Minding The Mint?,Comedy,1967,97,US).
+film(Tony Roberts: Motorcity Motormouth,Comedy,2016,50,US).
+film(In the Loop,Comedy,2009,106,GB).
+film(Clear and Present Danger,Action,1994,141,US).
+film(Proxy,Drama,2013,122,US).
+film(Christmas Do-Over,Comedy,2006,90,US).
+film(Bigfoot,Horror,1970,84,US).
+film(R.O.T.O.R.,Thriller,1987,90,US).
+film(Bambou,Comedy,2009,97,FR).
+film(From Hell,Horror,2001,122,CZ).
+film(Family Way,Comedy,2012,132,NL).
+film(Van Wilder: Freshman Year,Comedy,2009,100,US).
+film(Get on Up,Drama,2014,139,US).
+film(Black Gunn,Action,1972,97,GB).
+film(Blonde and Blonder,Action,2008,95,CA).
+film(Everybody Wants Some!!,Comedy,2016,116,US).
+film(Flowers and Trees,Animation,1932,8,US).
+film(Strapped,Drama,1993,104,US).
+film(Here Comes the Groom,Comedy,1951,113,US).
+film(The Magic Christian,Comedy,1969,92,GB).
+film(I Love Hong Kong,Comedy,2011,102,HK).
+film(Carjacked,Action,2011,89,US).
+film(Thick as Thieves,Action,2009,104,DE).
+film(The Desert of the Tartars,Drama,1976,140,IT).
+film(Naked Soldier,Action,2012,94,HK).
+film(Carnival,Comedy,1982,151,RU).
+film(Last Year's Snow Was Falling,Animation,1983,20,RU).
+film(Claire's Knee,Drama,1970,105,FR).
+film(The Visual Bible: The Gospel of John,Drama,2003,125,CA).
+film(Horrible Bosses,Comedy,2011,98,US).
+film(Whistling in Brooklyn,Comedy,1943,87,US).
+film(Three Resurrected Drunkards,Drama,1968,80,JP).
+film(The 11 Commandments,Drama,2004,85,FR).
+film(Step Lively,Drama,1944,88,US).
+film(Perez.,Drama,2014,94,IT).
+film(Perfumed Ball,Drama,1997,93,BR).
+film(The Mother of Tears,Horror,2007,102,IT).
+film(Bunny Drop,Drama,2011,114,JP).
+film(You Don't Mess with the Zohan,Comedy,2008,113,US).
+film(Contact High,Comedy,2009,98,AT).
+film(Mouchette,Drama,1967,81,FR).
+film(Matru Ki Bijlee Ka Mandola,Comedy,2013,150,IN).
+film(Resident Evil: Degeneration,Animation,2008,97,JP).
+film(Jessabelle,Thriller,2014,90,US).
+film(A Long Ride from Hell,Action,1968,95,IT).
+film(The Europeans,Drama,1979,90,GB).
+film(The Policeman of the 16th Precinct,Comedy,2008,120,GR).
+film(Night of the Comet,Comedy,1984,95,US).
+film(Nightmare Sisters,Horror,1988,83,US).
+film(Once Upon a Time in the Midlands,Action,2002,104,GB).
+film(Something Borrowed,Comedy,2011,112,US).
+film(Fulltime Killer,Action,2001,102,HK).
+film(The Slender Thread,Drama,1965,98,US).
+film(The Test-tube Adult and Simo's Angels,Comedy,1979,87,FI).
+film(Elvis & Madona,Comedy,2011,105,BR).
+film(Me Shivajiraje Bhosale Boltoy,Drama,2009,0,IN).
+film(House of Clocks,Horror,1989,84,IT).
+film(Bent,Drama,1997,105,GB).
+film(Maniac Cop 2,Horror,1990,90,US).
+film(Velvet Hands,Comedy,1979,98,IT).
+film(Headspace,Horror,2005,89,US).
+film(Sanctuary,Drama,2015,104,DE).
+film(April in Paris,Comedy,1952,94,US).
+film(Little Nikita,Drama,1988,98,US).
+film(All About Evil,Horror,2010,98,US).
+film(What a Man,Comedy,2011,95,DE).
+film(Bachelor Apartment,Comedy,1931,76,US).
+film(The Seven-Per-Cent Solution,Thriller,1976,113,GB).
+film(Aberdeen,Drama,2000,113,GB).
+film(Tsar,Drama,2009,119,RU).
+film(Bo,Drama,2010,100,BE).
+film(It's a Hard Life,Comedy,1964,104,IT).
+film(Eternal Summer,Drama,2006,105,TW).
+film(The Meetings of Anna,Drama,1978,120,BE).
+film(How to Lose a Guy in 10 Days,Comedy,2003,116,DE).
+film(Lucky: No Time for Love,Drama,2005,180,IN).
+film(C'mon Man,Comedy,2012,101,US).
+film(People, Places, Things,Comedy,2015,85,US).
+film(Flood,Drama,2007,110,GB).
+film(Goke, Body Snatcher from Hell,Horror,1968,84,JP).
+film(Jasminum,Comedy,2006,103,PL).
+film(Frogs,Horror,1972,91,US).
+film(The Game of Their Lives,Drama,2005,101,US).
+film(Donald Cried,Drama,2017,85,US).
+film(Naomi and Ely's No Kiss List,Comedy,2015,89,US).
+film(Imaginary Heroes,Comedy,2004,111,BE).
+film(Super Sucker,Comedy,2002,93,US).
+film(Trava: Fist Planet,Animation,2003,52,JP).
+film(Forbidden Fruit,Drama,2009,104,FI).
+film(Crimewave,Thriller,1985,83,US).
+film(Voracious,Comedy,2012,104,PH).
+film(99 Homes,Drama,2014,112,US).
+film(Nancy Drew: Detective,Comedy,1938,66,US).
+film(Butley,Drama,1974,127,US).
+film(Love's Labour's Lost,Comedy,2000,93,FR).
+film(Shanghai Kiss,Comedy,2007,106,US).
+film(Father and Daughter,Animation,2000,8,BE).
+film(Success,Drama,1984,93,RU).
+film(Burnout,Action,2014,93,NO).
+film(Smoke Signals,Drama,1998,89,CA).
+film(The Hitcher II: I've Been Waiting,Action,2003,93,US).
+film(Life of the Party,Drama,1920,50,US).
+film(Hoffman,Comedy,1970,113,GB).
+film(The Legend of Rita,Drama,2000,102,DE).
+film(Cal,Drama,1984,102,GB).
+film(Kuffs,Action,1992,102,US).
+film(Betrayal,Action,2003,90,US).
+film(Dana Gould: Let Me Put My Thoughts in You,Comedy,2009,75,US).
+film(The Greatest Game Ever Played,Drama,2005,120,US).
+film(Ariel,Drama,1988,69,FI).
+film(Dedication,Comedy,2007,95,US).
+film(The Perfect Holiday,Comedy,2007,96,US).
+film(No Looking Back,Drama,1998,96,US).
+film(Boruto: Naruto the Movie,Action,2015,100,JP).
+film(Belle of the Yukon,Drama,1944,83,US).
+film(The Best Day Ever,Comedy,2015,112,RU).
+film(Mickey's House of Villains,Animation,2001,70,US).
+film(Metroland,Comedy,1997,105,FR).
+film(Narco,Comedy,2004,105,FR).
+film(Fast Getaway,Action,1991,86,US).
+film(The Toxic Avenger Part II,Comedy,1989,96,US).
+film(The Love of Siam,Drama,2007,154,TH).
+film(Urok literatury,Comedy,1968,75,RU).
+film(A Horrible Way to Die,Thriller,2010,87,US).
+film(Mother India,Drama,1957,172,IN).
+film(Magicians,Comedy,1982,154,RU).
+film(El profe,Comedy,1971,120,MX).
+film(Godzilla vs. Destoroyah,Action,1995,103,JP).
+film(Peking Opera Blues,Action,1986,104,HK).
+film(When You Comin' Back, Red Ryder?,Drama,1979,113,US).
+film(Last Hero in China,Action,1993,111,HK).
+film(Grand Masti,Comedy,2013,140,IN).
+film(Before The Rains,Drama,2007,98,GB).
+film(The Human Comedy,Comedy,1943,117,US).
+film(Fairy Tales,Romance,1978,82,US).
+film(The Disappearance of Eleanor Rigby: Her,Drama,2014,100,US).
+film(Harrison's Flowers,Drama,2000,130,FR).
+film(Girlfriend Boyfriend,Drama,2012,105,TW).
+film(A Little Trip to Heaven,Drama,2005,98,IS).
+film(The Major,Action,2013,99,RU).
+film(An American Tragedy,Drama,1931,96,US).
+film(The Assassination of Richard Nixon,Drama,2004,95,US).
+film(The Pretty One,Comedy,2014,90,US).
+film(Our Sunhi,Romance,2013,89,KR).
+film(Murder at 1600,Action,1997,107,US).
+film(Dimensions of Dialogue,Comedy,1983,12,CZ).
+film(Les Visiteurs du Soir,Drama,1942,120,FR).
+film(A Touch of Sin,Drama,2013,133,CN).
+film(Androcles and the Lion,Comedy,1952,98,US).
+film(Home Movies,Comedy,1980,90,US).
+film(Tarzan the Ape Man,Action,1932,100,US).
+film(Wild Life,Drama,2014,106,FR).
+film(Child's Play 3,Thriller,1991,90,GB).
+film(Baby Blood,Comedy,1990,82,FR).
+film(The King of Havana,Drama,2015,125,ES).
+film(Ravenous,Comedy,1999,100,CZ).
+film(Empire of Passion,Drama,1978,105,FR).
+film(Dragon Ball Z: Lord Slug,Action,1991,43,JP).
+film(Don't Hug Me I'm Scared 5,Horror,2015,6,GB).
+film(Leatherface,Horror,2017,90,US).
+film(The Telegraph Trail,Action,1933,54,US).
+film(Herbie Rides Again,Romance,1974,88,US).
+film(Todd Barry: Super Crazy,Comedy,2012,60,US).
+film(Office Christmas Party,Comedy,2016,105,US).
+film(The Tall Blond Man with One Black Shoe,Comedy,1972,90,FR).
+film(Favor,Thriller,2013,102,US).
+film(Long Live Death,Drama,1971,90,FR).
+film(Coming Out,Drama,1989,113,DE).
+film(Wind River,Action,2017,111,GB).
+film(Girls Just Want to Have Fun,Comedy,1985,87,US).
+film(Event Horizon,Horror,1997,96,GB).
+film(The Final Master,Drama,2015,109,CN).
+film(Ordinary Miracle,Drama,1978,137,RU).
+film(No Blade of Grass,Drama,1970,96,US).
+film(Love at 16,Drama,2004,102,GR).
+film(The Taking of Pelham 1 2 3,Thriller,2009,106,US).
+film(Beyond Skyline,Action,2017,0,SG).
+film(Blast,Action,1997,105,US).
+film(Calcutta Mail,Thriller,2003,127,IN).
+film(The Brand New Testament,Comedy,2015,105,LU).
+film(Tormented,Horror,2011,83,JP).
+film(I Want to Marry Ryan Banks,Romance,2004,120,CA).
+film(Central Airport,Drama,1933,72,US).
+film(The Wild Ones,Drama,2012,130,AR).
+film(City Slickers,Action,1991,112,US).
+film(Too Many Husbands,Comedy,1940,81,US).
+film(Someone Like You...,Comedy,2001,97,US).
+film(Fanaa,Action,2006,168,IN).
+film(Zero 2,Comedy,2010,90,LT).
+film(Sometime in August,Drama,2009,92,DE).
+film(Rules Don't Apply,Comedy,2016,127,US).
+film(The Wedding Plan,Comedy,2017,110,IL).
+film(Nostalgia,Drama,1983,120,SU).
+film(Union Square,Drama,2011,80,US).
+film(Repli-Kate,Comedy,2002,96,DE).
+film(Invitation,Drama,1952,84,US).
