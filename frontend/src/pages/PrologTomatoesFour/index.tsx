@@ -8,8 +8,8 @@ interface MovieParams {
   ageMovie: string;
 }
 
-const PrologTomatoesFour: React.FC = () => {
-  const [duration, setDuration] = useState('Curto');
+const PrologTomatoesFive: React.FC = () => {
+  const [duration, setDuration] = useState('1');
 
   const { params } = useRouteMatch<MovieParams>();
   const history = useHistory();
@@ -17,7 +17,6 @@ const PrologTomatoesFour: React.FC = () => {
   return (
     <Container>
       <Content>
-        <h1>{params.gender}</h1>
         <div>
           <h1>Prolog</h1>
           <img src={tomatoLogo} alt="Tomate" />
@@ -27,7 +26,9 @@ const PrologTomatoesFour: React.FC = () => {
         <p>
           Você prefere filmes
           <br />
-          novos ou antigos?
+          curtos, médios
+          <br />
+          ou longos?
         </p>
 
         <Form>
@@ -37,7 +38,7 @@ const PrologTomatoesFour: React.FC = () => {
               id=""
               name="duration"
               value="Curto"
-              onClick={() => setDuration('Curto')}
+              onClick={() => setDuration('1')}
               defaultChecked
             />
             <label htmlFor="Curto">Curto</label>
@@ -49,7 +50,7 @@ const PrologTomatoesFour: React.FC = () => {
               id="2"
               name="age"
               value="2"
-              onClick={() => setDuration('Médio')}
+              onClick={() => setDuration('2')}
             />
             <label htmlFor="Médio">Médio</label>
           </Option>
@@ -60,7 +61,7 @@ const PrologTomatoesFour: React.FC = () => {
               id="Longo"
               name="duration"
               value="Longo"
-              onClick={() => setDuration('Longo')}
+              onClick={() => setDuration('3')}
             />
             <label htmlFor="Longo">Longo</label>
           </Option>
@@ -71,8 +72,7 @@ const PrologTomatoesFour: React.FC = () => {
           onClick={() =>
             history.push(
               `prolog-tomatoes-five/${params.gender}/${params.ageMovie}/${duration}`
-            )
-          }
+            )}
         >
           Avançar
         </button>
@@ -82,4 +82,4 @@ const PrologTomatoesFour: React.FC = () => {
   );
 };
 
-export default PrologTomatoesFour;
+export default PrologTomatoesFive;
