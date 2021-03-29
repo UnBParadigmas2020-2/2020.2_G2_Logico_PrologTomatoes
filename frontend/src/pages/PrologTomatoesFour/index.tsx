@@ -5,17 +5,19 @@ import tomatoLogo from '../../assets/tomato.svg';
 
 interface MovieParams {
   gender: string;
+  ageMovie: string;
 }
 
-const PrologTomatoesThree: React.FC = () => {
-  const [ageMovie, setAgeMovie] = useState('1');
+const PrologTomatoesFour: React.FC = () => {
+  const [duration, setDuration] = useState('Curto');
 
   const { params } = useRouteMatch<MovieParams>();
   const history = useHistory();
+
   return (
     <Container>
-      <Background />
       <Content>
+        <h1>{params.gender}</h1>
         <div>
           <h1>Prolog</h1>
           <img src={tomatoLogo} alt="Tomate" />
@@ -32,13 +34,13 @@ const PrologTomatoesThree: React.FC = () => {
           <Option>
             <input
               type="radio"
-              id="1"
-              name="age"
-              value="1"
+              id=""
+              name="duration"
+              value="Curto"
+              onClick={() => setDuration('Curto')}
               defaultChecked
-              onClick={() => setAgeMovie('1')}
             />
-            <label htmlFor="Animação">Novos</label>
+            <label htmlFor="Curto">Curto</label>
           </Option>
 
           <Option>
@@ -47,23 +49,37 @@ const PrologTomatoesThree: React.FC = () => {
               id="2"
               name="age"
               value="2"
-              onClick={() => setAgeMovie('2')}
+              onClick={() => setDuration('Médio')}
             />
-            <label htmlFor="Animação">Antigos</label>
+            <label htmlFor="Médio">Médio</label>
+          </Option>
+
+          <Option>
+            <input
+              type="radio"
+              id="Longo"
+              name="duration"
+              value="Longo"
+              onClick={() => setDuration('Longo')}
+            />
+            <label htmlFor="Longo">Longo</label>
           </Option>
         </Form>
 
         <button
           type="submit"
           onClick={() =>
-            history.push(`prolog-tomatoes-four/${params.gender}/${ageMovie}`)
+            history.push(
+              `prolog-tomatoes-five/${params.gender}/${params.ageMovie}/${duration}`
+            )
           }
         >
           Avançar
         </button>
       </Content>
+      <Background />
     </Container>
   );
 };
 
-export default PrologTomatoesThree;
+export default PrologTomatoesFour;

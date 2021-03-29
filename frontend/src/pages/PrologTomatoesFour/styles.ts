@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { shade } from 'polished';
-import Three from '../../assets/Three.jpg';
+import Four from '../../assets/Four.jpg';
 
 export const Container = styled.div`
   /* Parte visível da tela */
@@ -58,7 +58,7 @@ export const Content = styled.div`
 
 export const Background = styled.div`
   flex: 1;
-  background: url(${Three}) no-repeat center;
+  background: url(${Four}) no-repeat center;
   background-size: cover;
 `;
 
