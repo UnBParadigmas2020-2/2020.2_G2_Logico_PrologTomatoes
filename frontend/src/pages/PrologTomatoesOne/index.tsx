@@ -1,9 +1,10 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { Container, Content, Background } from './styles';
 import tomatoLogo from '../../assets/tomato.svg';
 
 const PrologTomatoesOne: React.FC = () => {
+  const history = useHistory();
   return (
     <Container>
       <Content>
@@ -19,8 +20,12 @@ const PrologTomatoesOne: React.FC = () => {
           qual filme assisitir <br />a gente te ajuda.
         </p>
 
-        <button type="submit">Começar</button>
-        <Link to="PrologTomatoesOne">Esqueci minha senha</Link>
+        <button
+          type="submit"
+          onClick={() => history.push('/prolog-tomatoes-two')}
+        >
+          Começar
+        </button>
       </Content>
       <Background />
     </Container>
