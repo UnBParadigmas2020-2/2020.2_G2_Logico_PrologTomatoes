@@ -35,7 +35,7 @@ const PrologTomatoesFive: React.FC = () => {
           <Option>
             <input
               type="radio"
-              id=""
+              id="Curto"
               name="duration"
               value="Curto"
               onClick={() => setDuration('1')}
@@ -60,7 +60,7 @@ const PrologTomatoesFive: React.FC = () => {
               type="radio"
               id="Longo"
               name="duration"
-              value="Longo"
+              value="3"
               onClick={() => setDuration('3')}
             />
             <label htmlFor="Longo">Longo</label>
@@ -72,7 +72,8 @@ const PrologTomatoesFive: React.FC = () => {
           onClick={() =>
             history.push(
               `prolog-tomatoes-five/${params.gender}/${params.ageMovie}/${duration}`
-            )}
+            )
+          }
         >
           Avançar
         </button>
