@@ -2,7 +2,7 @@
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
 **Nro do Grupo**: 2<br>
-**Paradigma**: Funcional<br>
+**Paradigma**: Lógico<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -20,10 +20,23 @@ O projeto desenvolvido foi criado através de uma amostra de dados obtida do dat
 
 ## Instalação 
 **Linguagens**: Prolog, Python, Javascript<br>
-**Tecnologias**: <br>
+**Tecnologias**: Flask, ReactJS, swipl, Jupyter Notebook<br>
 
+### Para instalar o swipl
+
+% sudo apt-add-repository ppa:swi-prolog/stable
+% sudo apt-get update
+% sudo apt-get install swi-prolog
+
+### Para instalar o restante das dependências
+% pip3 install -r backend/requirements.txt
 
 ## Uso 
+
+Feito a instalação das dependências, é necessário rodar os seguinte comandos, subindo a API e o Frontend:
+
+* python3 backend/src/main.py
+* 
 
 
 
@@ -31,7 +44,9 @@ O projeto desenvolvido foi criado através de uma amostra de dados obtida do dat
 Adicione 1 ou mais vídeos com a execução do projeto.
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas a seguir.
+Iniciamos o trabalho com a modelagem dos dados para disposição no código em prolog, usando o dataset de reviews do IMDB.
 
-## Fontes
-Caso utilize materiais de terceiros, referencie-os adequadamente.
+Através deste dataset, tratamos os dados, utilizando, principalmente regex. Esse tratamento foi feito utilizando o Jupyter Notebook. Neste, definimos 7 categorias de filmes os quais dariamos como opção para o usuário na plataforma de recomendação. 
+
+Com as 7 categorias definidas, cortamos o restante dos filmes e então, selecionamos uma amostra aleatória de 500 filmes, dentre os 7 gêneros. Com isso, utilizamos o jupyter para gerar o código prolog para a inserção dos 500 filmes no recomendador de filmes.
+
