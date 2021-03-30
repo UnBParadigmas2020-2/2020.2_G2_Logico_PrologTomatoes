@@ -16,6 +16,8 @@ O projeto desenvolvido foi criado através de uma amostra de dados obtida do dat
 
 
 ## Screenshots
+![One](https://user-images.githubusercontent.com/48137972/112924078-daefef00-90e5-11eb-8fee-50a75aa33221.png)
+![Two](https://user-images.githubusercontent.com/48137972/112924085-e0e5d000-90e5-11eb-9187-bf7e85ef6ac3.png)
 
 
 ## Instalação 
@@ -31,14 +33,15 @@ O projeto desenvolvido foi criado através de uma amostra de dados obtida do dat
 ### Para instalar o restante das dependências
 % pip3 install -r backend/requirements.txt
 
+### Para instalar as dependências do frontend
+% yarn
+
 ## Uso 
 
 Feito a instalação das dependências, é necessário rodar os seguinte comandos, subindo a API e o Frontend:
 
 * python3 backend/src/main.py
-* 
-
-
+* yarn start (dentro da pasta frontend)
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
