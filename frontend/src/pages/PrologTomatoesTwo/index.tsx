@@ -104,9 +104,7 @@ const PrologTomatoesTwo: React.FC = () => {
 
         <button
           type="submit"
-          onClick={() =>
-            history.replace(`prolog-tomatoes-three/${genderMovie}`)
-          }
+          onClick={() => history.push(`prolog-tomatoes-three/${genderMovie}`)}
         >
           Avançar
         </button>
