@@ -1,18 +1,33 @@
-import React, { useState } from 'react';
+import React, { useCallback, useState } from 'react';
 import { useHistory, useRouteMatch } from 'react-router-dom';
-import { Container, Content, Background, Option, Form } from './styles';
+import { Container, Content, Background } from './styles';
 import tomatoLogo from '../../assets/tomato.svg';
+import api from '../../services/api';
 
 interface MovieParams {
   gender: string;
   ageMovie: string;
+  duration: string;
 }
 
 const PrologTomatoesFour: React.FC = () => {
-  const [duration, setDuration] = useState('1');
-
   const { params } = useRouteMatch<MovieParams>();
   const history = useHistory();
+
+  const handleMovie = useCallback(
+    (length: string, age: string, genre: string): void | Error => {
+      api({
+        method: 'post',
+        url: '/api/movie/',
+        data: {
+          length,
+          age,
+          genre,
+        },
+      });
+    },
+    []
+  );
 
   return (
     <Container>
@@ -25,7 +40,12 @@ const PrologTomatoesFour: React.FC = () => {
 
         <p>Bee Movie</p>
 
-        <button type="submit" onClick={() => history.push(`/`)}>
+        <button
+          type="submit"
+          onClick={() =>
+            handleMovie(params.duration, params.ageMovie, params.gender)
+          }
+        >
           Refazer
         </button>
       </Content>
