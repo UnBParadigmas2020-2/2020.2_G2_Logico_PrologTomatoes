@@ -1,11 +1,21 @@
-from pyswip import Prolog, Query, Variable, Functor
+from pyswip import Prolog, Query
 
-prolog = Prolog()
 
-prolog.consult('../../../movieClassifier.pl')
+def get_movie(data):
 
-Y = Variable()
+    prolog = Prolog()
 
-results = list(prolog.query("movie_recommendation(Y, 3, 1)"))
+    prolog.consult('../prolog/movieClassifier.pl')
 
-print(results[0]['Y'])
+    query = f'movie_recommendation(Y, {data["lengh"]}, {data["age"]}, "{data["genre"]}").'
+
+    results = list(prolog.query(query))
+
+    if results:
+        response = str(results[0]['Y']).split("'")[1]
+        status = 200
+    else:
+        response = 'Não foi possível encontrar um filme com essas preferências.'
+        status = 404
+    
+    return response, status
